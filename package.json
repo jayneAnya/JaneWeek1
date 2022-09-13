@@ -1,0 +1,19 @@
+{
+  "name": "xmp8bf",
+  "version": "0.0.15",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "description": null,
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  }
+}

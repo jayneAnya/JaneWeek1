@@ -1,0 +1,44 @@
+.main {
+  background-color: #c1f0f0;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+}
+
+.main > div {
+  height: 300px;
+  width: 350px;
+  border: 1px solid white;
+  background-color: white;
+}
+
+img {
+  height: 50px;
+  border-radius: 50px;
+  float: left;
+  width: 50px;
+}
+
+.cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+}
+.row {
+  text-align: center;
+}
+
+.cont > div {
+  height: 300px;
+  width: 350px;
+  border: 1px solid white;
+  border-radius: 10px;
+  background-color: blanchedalmond;
+  margin-bottom: 100px;
+}
+hr {
+  width: 300px;
+}
